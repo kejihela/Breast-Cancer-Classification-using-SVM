@@ -14,13 +14,29 @@ However, the advent of numerous and sophisticated technologies have made it easy
 A dataset of well technical characteristics suitable enough for the model to generate reasonable pattern or insights of tHe disease in question was used in training and testing of the machine learning modeL Support Vector Machine in particular
 
 ![image](https://user-images.githubusercontent.com/72225471/171606029-8eac88e3-9b25-4df6-bcae-208397984386.png)
+
+**Label**
 ![image](https://user-images.githubusercontent.com/72225471/171606112-e2e49404-a552-4f9f-8970-4139f0421f76.png)
+
 
 
 **Model**
 The machine learning model used for the classification of the particular model was Support Vector Machine. 
 we have a respository about Support Vector Machine you can go ahead and check
 ![image](https://user-images.githubusercontent.com/72225471/171606245-23a531e6-d649-4ea8-90ac-6fd7df0169dd.png)
+
+**Result**
+![image](https://user-images.githubusercontent.com/72225471/171606597-6850d892-c9ed-466c-805f-ae24ca46bc17.png)
+
+**Confusion Matrix**
+The confussion matrix for the above project can be seen below
+![image](https://user-images.githubusercontent.com/72225471/171606703-3fb665dc-546f-4ed5-8778-4ce82929fd55.png)
+
+**Classification Scores**
+classification scores of the above project is as thus:
+![image](https://user-images.githubusercontent.com/72225471/171606803-f9e2d638-16da-4a9b-a560-f06d82fab217.png)
+
+
 
 
 
