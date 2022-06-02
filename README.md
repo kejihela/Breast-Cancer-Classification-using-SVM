@@ -26,14 +26,18 @@ we have a respository about Support Vector Machine you can go ahead and check
 ![image](https://user-images.githubusercontent.com/72225471/171606245-23a531e6-d649-4ea8-90ac-6fd7df0169dd.png)
 
 **Result**
-![image](https://user-images.githubusercontent.com/72225471/171606597-6850d892-c9ed-466c-805f-ae24ca46bc17.png)
+
+![image](https://user-images.githubusercontent.com/72225471/171607135-d490c60a-109c-4ea4-971a-178a9fdd5ead.png)
+
 
 **Confusion Matrix**
 The confussion matrix for the above project can be seen below
+
 ![image](https://user-images.githubusercontent.com/72225471/171606703-3fb665dc-546f-4ed5-8778-4ce82929fd55.png)
 
 **Classification Scores**
 classification scores of the above project is as thus:
+
 ![image](https://user-images.githubusercontent.com/72225471/171606803-f9e2d638-16da-4a9b-a560-f06d82fab217.png)
 
 
